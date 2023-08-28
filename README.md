@@ -5,6 +5,6 @@
 
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
 </p>
