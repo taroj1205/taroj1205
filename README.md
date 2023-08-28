@@ -4,7 +4,16 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taroj1205)
 
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
-</p>
+<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=light#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&hide_border=true&theme=light#gh-light-mode-only"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only"/>
+</a>
