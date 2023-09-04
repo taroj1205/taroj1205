@@ -7,7 +7,7 @@
 [![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,cs,python)](https://skills.thijs.gg)
 
 # Framework
-[![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express,react,nodejs,flask)](https://skills.thijs.gg)
+[![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express,react,nodejs,flask,tailwind)](https://skills.thijs.gg)
 
 # SQL
 [![SQL](https://skills.thijs.gg/icons?i=mysql,sqlite,postgresql)](https://skills.thijs.gg)
