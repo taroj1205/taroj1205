@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taroj1205)
 
 # Languages
-[![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,c#,python)](https://skills.thijs.gg)
+[![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,cs,python)](https://skills.thijs.gg)
 
 # Framework
 [![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express,react,nodejs,flask)](https://skills.thijs.gg)
