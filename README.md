@@ -12,6 +12,9 @@
 # SQL
 [![SQL](https://skills.thijs.gg/icons?i=mysql,sqlite,postgresql)](https://skills.thijs.gg)
 
+# 3rd Party
+[![3rd Party](https://skills.thijs.gg/icons?i=supabase,vercel)](https://skills.thijs.gg)
+
 <a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only"/>
 </a>
