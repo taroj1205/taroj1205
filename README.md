@@ -28,3 +28,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only"/>
 </a>
+
+<a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=dark#gh-dark-mode-only" alt="Wakatime Image" height="250"></a>
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" height="250"></a>
