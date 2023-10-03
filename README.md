@@ -1,3 +1,5 @@
+<h1 align="center">Hi I'm Shintaro Jokagi</h1>
+
 <div align="center">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://taroj.poyo.jp)
@@ -11,16 +13,20 @@
   </a>
 </div>
 
-# Languages
+## Languages
+
 [![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,cs,python)](https://skills.thijs.gg)
 
-# Framework
+## Framework
+
 [![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express,react,nodejs,flask,tailwind)](https://skills.thijs.gg)
 
-# SQL
+## SQL
+
 [![SQL](https://skills.thijs.gg/icons?i=mysql,sqlite,postgresql)](https://skills.thijs.gg)
 
-# Third-Party Services
+## Third-Party Services
+
 [![Third-Party Services](https://skills.thijs.gg/icons?i=supabase,vercel)](https://skills.thijs.gg)
 
 <div align="center">
