@@ -30,20 +30,18 @@
 
 [![Third-Party Services](https://skills.thijs.gg/icons?i=supabase,vercel)](https://skills.thijs.gg)
 
-<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only"/>
+<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=github_dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=github_dark#gh-dark-mode-only" align="top"/>
 </a>
-<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only"/>
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=github_dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=github_dark#gh-dark-mode-only"/>
 </a> -->
-
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=dark#gh-dark-mode-only" alt="Wakatime Image" width="400"></a>
+  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=github_dark#gh-dark-mode-only" alt="Wakatime Image" width="400" align="top"></a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=light#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=light#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=light#gh-light-mode-only" align="top"/>
 </a>
 <!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only"/>
 </a> -->
-
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" width="400"></a>
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" width="400" align="top"></a>
