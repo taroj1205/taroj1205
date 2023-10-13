@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Shintaro Jokagi</h1>
+<h1 align="center">Hi👋 I'm Shintaro Jokagi.</h1>
 
 <div align="center">
   
