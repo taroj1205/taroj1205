@@ -13,7 +13,17 @@
 
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-dark-mode-only">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-dark-mode-only"/>
+  </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-light-mode-only">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=default&hide_border=true&stroke=0000&background=ffffff"/>
   </a>  
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=onedark" 
+    </a>
+      <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
+  <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=flat" 
+    </a>
 </div>
 
 ## Languages
