@@ -11,11 +11,11 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![Wakatime](https://wakatime.com/badge/user/adefddc1-3a79-4f58-a8d1-92e9e510e0f7.svg?style=for-the-badge)](https://wakatime.com/@adefddc1-3a79-4f58-a8d1-92e9e510e0f7)
 
-  <!--<a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-dark-mode-only">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-dark-mode-only"/>
+  <!--<a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only"/>
   </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0#gh-light-mode-only">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=default&hide_border=true&stroke=0000&background=ffffff"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-light-mode-only">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=default&border_color=20252a&stroke=0000&background=ffffff"/>
   </a>  
   -->
 
@@ -45,18 +45,23 @@
 
 ## My coding stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=dark#gh-dark-mode-only" align="top"/>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taroj1205&theme=github_dark#gh-dark-mode-only">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taroj1205&theme=github_dark#gh-dark-mode-only" align="top"/>
 </a>
-<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only"/>
-</a> -->
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=dark#gh-dark-mode-only" alt="Wakatime Image" width="400" align="top"></a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=light#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&theme=light#gh-light-mode-only" align="top"/>
+        <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taroj1205&theme=github#gh-light-mode-only">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taroj1205&theme=github#gh-light-mode-only" align="top"/>
 </a>
-<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&hide_border=true&layout=compact&langs_count=10&theme=light#gh-light-mode-only"/>
+<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=20252a&theme=github_dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=20252a&theme=github_dark#gh-dark-mode-only" align="top"/>
+</a>
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=20252a&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=20252a&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only"/>
 </a> -->
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;hide_border=true&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" width="400" align="top"></a>
+  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;border_color=20252a&amp;locale=en&amp;theme=github_dark#gh-dark-mode-only" alt="Wakatime Image" width="400" align="top"></a>
+<a href="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=f1eff0&theme=light#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=f1eff0&theme=light#gh-light-mode-only" align="top"/>
+</a>
+<!--   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=f1eff0&layout=compact&langs_count=10&theme=light#gh-light-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroj1205&show_icons=true&rank_icon=percentile&border_color=f1eff0&layout=compact&langs_count=10&theme=light#gh-light-mode-only"/>
+</a> -->
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;border_color=f1eff0&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" width="400" align="top"></a>
