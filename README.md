@@ -42,7 +42,7 @@
 
 ## Third-Party Services
 
-[![Third-Party Services](https://skills.thijs.gg/icons?i=supabase,vercel)](https://skills.thijs.gg)
+[![Third-Party Services](https://skills.thijs.gg/icons?i=supabase,vercel,netlify)](https://skills.thijs.gg)
 
 ## My coding stats
 
