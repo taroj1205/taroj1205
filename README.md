@@ -30,7 +30,7 @@
 
 ## Languages
 
-[![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,md,cs,python)](https://skills.thijs.gg)
+[![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,md,python)](https://skills.thijs.gg)
 
 ## Framework
 
