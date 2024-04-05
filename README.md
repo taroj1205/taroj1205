@@ -46,5 +46,5 @@
 
 ## My coding stats
 
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;border_color=20252a&amp;locale=en&amp;theme=github_dark#gh-dark-mode-only" alt="Wakatime Image" width="400" align="top"></a>
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=taroj1205&amp;border_color=f1eff0&amp;locale=en&amp;theme=light#gh-light-mode-only" alt="Wakatime Image" width="400" align="top"></a>
+  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
