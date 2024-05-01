@@ -30,19 +30,19 @@
 
 ## Languages
 
-[![Languages](https://skills.thijs.gg/icons?i=javascript,typescript,html,css,md,python)](https://skills.thijs.gg)
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md,python)](https://skillicons.dev)
 
 ## Framework
 
-[![Frameworks](https://skills.thijs.gg/icons?i=nextjs,express,react,nodejs,flask,tailwind)](https://skills.thijs.gg)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind)](https://skillicons.dev)
 
 ## SQL
 
-[![SQL](https://skills.thijs.gg/icons?i=mysql,sqlite,postgresql)](https://skills.thijs.gg)
+[![SQL](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
 
 ## Third-Party Services
 
-[![Third-Party Services](https://skills.thijs.gg/icons?i=supabase,vercel,netlify)](https://skills.thijs.gg)
+[![Third-Party Services](https://skillicons.dev/icons?i=supabase,vercel,netlify)](https://skillicons.dev)
 
 ## My coding stats
 
