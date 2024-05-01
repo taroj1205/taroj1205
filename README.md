@@ -18,14 +18,14 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=default&border_color=20252a&stroke=0000&background=ffffff"/>
   </a>  
  
-
+   -->
   <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=onedark" 
     </a>
       <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=flat" 
     </a>
-     -->
+  
 </div>
 
 ## Languages
