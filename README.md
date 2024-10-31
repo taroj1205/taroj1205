@@ -19,12 +19,12 @@
   </a>  
  
    -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
+<!--  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=onedark" 
     </a>
       <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
   <img src="https://github-profile-trophy.vercel.app/?username=taroj1205&theme=flat" 
-    </a>
+    </a> -->
   
 </div>
 
@@ -40,7 +40,7 @@
 
 [![SQL](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
 
-## Third-Party Services
+## SaaS
 
 [![Third-Party Services](https://skillicons.dev/icons?i=supabase,vercel,netlify)](https://skillicons.dev)
 
