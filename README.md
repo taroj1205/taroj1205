@@ -51,5 +51,5 @@
 <a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
 -->
 
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/f149e5fd-a6a3-4977-a575-0ec812839182.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/09e98924-9744-4930-8f99-96673288a272.svg" align="top" /></a>
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/f5524775-e594-4333-ab62-19f1be1f3216.svg" align="top" /></a>
+<a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/824dec4f-c076-4643-810a-0fa187eb2d85.svg" align="top" /></a>
