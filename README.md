@@ -11,6 +11,7 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=taroj1205&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![Wakatime](https://wakatime.com/badge/user/adefddc1-3a79-4f58-a8d1-92e9e510e0f7.svg?style=for-the-badge)](https://wakatime.com/@adefddc1-3a79-4f58-a8d1-92e9e510e0f7)
 
+
   <!--<a href="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="taroj1205's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=taroj1205&theme=black-ice&border_color=20252a&stroke=0000&background=060A0CD0#gh-dark-mode-only"/>
   </a>
@@ -30,11 +31,11 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md,python,java)](https://skillicons.dev)
 
-## Framework
+## Framework & Libraries
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)](https://skillicons.dev)
 
 ## SQL
 
@@ -44,7 +45,11 @@
 
 [![Third-Party Services](https://skillicons.dev/icons?i=supabase,vercel,netlify)](https://skillicons.dev)
 
-## My coding stats
+<!--## My coding stats
 
   <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
 <a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
+-->
+
+<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/f149e5fd-a6a3-4977-a575-0ec812839182.svg" align="top" /></a>
+<a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/09e98924-9744-4930-8f99-96673288a272.svg" align="top" /></a>
