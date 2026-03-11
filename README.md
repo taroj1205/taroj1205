@@ -29,27 +29,5 @@
   
 </div>
 
-## Languages
-
-[![Languages](https://skillicons.dev/icons?i=javascript,typescript,html,css,md,python,java)](https://skillicons.dev)
-
-## Framework & Libraries
-
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)](https://skillicons.dev)
-
-## SQL
-
-[![SQL](https://skillicons.dev/icons?i=mysql,sqlite,postgresql)](https://skillicons.dev)
-
-## SaaS
-
-[![Third-Party Services](https://skillicons.dev/icons?i=supabase,vercel,netlify)](https://skillicons.dev)
-
-<!--## My coding stats
-
-  <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/73a679e9-c642-449d-a70c-f4dff787c8f6.svg" align="top" /></a>
-<a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/6355258e-a040-45d3-a69e-17b70a94af18.svg" align="top" /></a>
--->
-
 <a href="https://wakatime.com/@taroj1205#gh-light-mode-only"><img src="https://wakatime.com/share/@taroj1205/f5524775-e594-4333-ab62-19f1be1f3216.svg" align="top" /></a>
 <a href="https://wakatime.com/@taroj1205#gh-dark-mode-only"><img src="https://wakatime.com/share/@taroj1205/824dec4f-c076-4643-810a-0fa187eb2d85.svg" align="top" /></a>
